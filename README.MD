@@ -19,7 +19,7 @@
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/erharwindersaini/QA-Selenium-Automation-with-Python
+cd QA-Selenium-Automation-with-Python-main
 pip install -r requirements.txt
 pytest -v qa_selenium_test.py
